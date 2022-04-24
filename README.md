@@ -1,3 +1,3 @@
 # deep_learning
-Я прохожу курс по DL от ФПМИ МФТИ и выкладываю сюда некоторые свои решения задач
 
+I am taking a course on DL from FPMI MIPT and posting here some of my solutions to problems
